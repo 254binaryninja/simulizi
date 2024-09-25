@@ -22,6 +22,7 @@ Remember to keep the following in mind:
 * Keep paragraphs relatively  long such that they can fill a standard kids story book.
 * Use vivid and descriptive language that paints a picture in the reader's mind.
 * Include elements that would be appealing to a child of this age, such as animals, adventure, or humor.
+* Also generate the title of the story.
 
 Let your imagination run wild and create a story the child will love!
 

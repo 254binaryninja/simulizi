@@ -8,6 +8,9 @@ import { Button } from '@/components/ui/button'
 import { BotIcon } from 'lucide-react'
 import PaymentButton from '@/components/Button'
 import MobileNav from '@/components/MobileNav'
+import { UserButton } from '@clerk/nextjs'
+
+
 
 const page = () => {
  const [isScrolled,setIsScrolled] = useState<boolean>(false)
@@ -54,6 +57,7 @@ const page = () => {
         title='Buy Credits'
        />
       </div>
+      <UserButton/>
    </div>
   )
 }
