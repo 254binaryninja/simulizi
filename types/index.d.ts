@@ -4,4 +4,5 @@ declare type UserInput = {
     age:number,
     storyType:string,
     storyDescription:string,
+    language: string,
 }
